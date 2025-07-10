@@ -1,0 +1,70 @@
+﻿Field=#~Integer~#~50|Field=Fitted~String~Fitted~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=PartNumber~String~PartNumber~100|Field=Quantity~Integer~Quantity~100|Field=Manufacturer~String~Manufacturer~100|Field=PackageReference~String~PackageReference~100|Field=Value~String~Value~100|Field=Alternate Manufacturer~String~Alternate Manufacturer~100|Field=Alternate PartNumber~String~Alternate PartNumber~100|ReportField=Currency~USD|ReportField=ProductionQuantity~100|ReportField=ProjectFileName~MD016A.PrjPcb|ReportField=ProjectFullPath~Y:\PMP_PCB\PMP EVM ARCHIVE\MDBU_Numbers\MD016\MD016A\MD016A.PrjPcb|ReportField=Title~BOM (EVM format) For Variant [002] of Project [MD016A.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~117|ReportField=ReportTime~9:45:27 AM|ReportField=ReportDate~7/18/2018|ReportField=ReportDateTime~7/18/2018 9:45:27 AM|ReportField=OutputName~BOM (EVM format)|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~002|ReportField=EVM_Orderable~DRV8353RH-EVM|ReportField=CopyrightYear~2018|ReportField=PCB_Layout~Hector Hernandez|ReportField=PCB_Rev~A|ReportField=PRJ_Customer~Public Release|ReportField=PRJ_Engineer~hector Hernandez|ReportField=PRJ_Number~MD016|ReportField=PRJ_Title~DRV8353RX 3-Phase Smart Gate Driver EVM|ReportField=SCH_Rev~A|ReportField=TechSupport~http://www.ti.com/support|ReportField=TID~N/A|ReportField=Address1~Not shown in title block|ReportField=Address2~Not shown in title block|ReportField=Address3~Not shown in title block|ReportField=Address4~Not shown in title block|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~Not shown in title block|ReportField=Author~Not shown in title block|ReportField=CheckedBy~Not shown in title block|ReportField=CompanyName~Not shown in title block|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~7/18/2018|ReportField=CurrentTime~9:40:37 AM|ReportField=Date~Not shown in title block|ReportField=DocumentFullPathAndName~Y:\PMP_PCB\PMP EVM ARCHIVE\MDBU_Numbers\MD016\MD016A\MD016A.SchDoc|ReportField=DocumentName~MD016A.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=Engineer~Not shown in title block|ReportField=ImagePath~Not shown in title block|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~7/9/2018|ReportField=Organization~Not shown in title block|ReportField=PageSetup~Record=PageOptions:CenterHorizontal=True:CenterVertical=True:PrintScale=1.00:XCorrection=1.00:YCorrection=1.00:PrintKind=0:BorderSize=5000000:LeftOffset=0:BottomOffset=0:Orientation=2:PaperLength=1000:PaperWidth=1000:Scale=100:PaperSource=15:PrintQuality=600:MediaType=1:DitherType=10:PaperKind=Letter:PrintScaleMode=1|ReportField=ProjectName~MD016A.PrjPcb|ReportField=Revision~Use project parameter SCH_Rev|ReportField=Rule~|ReportField=SheetNumber~2|ReportField=SheetTotal~3|ReportField=Time~Not shown in title block|ReportField=Title~|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~MD016A.PrjPcb|ReportField=DataSourceFullPath~Y:\PMP_PCB\PMP EVM ARCHIVE\MDBU_Numbers\MD016\MD016A\MD016A.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Fitted|Printed Circuit Board|!PCB1|MD016|1|Any||||
+2|Fitted|Partner board for MD016  Kitting item|!PCB2|MD017|1|Any||||
+3|Fitted|CAP, CERM, 0.047 uF, 25 V, +/- 5%, X7R, 0603|C4, C12, C13, C17|06033C473JAT2A|4|AVX|0603|0.047uF||
+4|Fitted|CAP, AL, 330 uF, 100 V, +/- 20%, 0.153 ohm, AEC-Q200 Grade 2, SMD|C11, C21|EEV-FK2A331M|2|Panasonic|SMT Radial K16|330uF||
+5|Fitted|CAP, CERM, 1 uF, 100 V, +/- 10%, X7R, 1206|C18, C19, C20, C27, C33|CL31B105KCHNNNE|5|Samsung|1206|1uF||
+6|Fitted|CAP, CERM, 1000 pF, 16 V, +/- 10%, X7R, 0603|C22, C23, C25, C41, C42, C43|885012206034|6|Wurth Elektronik|0603|1000pF||
+7|Fitted|CAP, CERM, 10 uF, 100 V,+/- 10%, X7S, AEC-Q200 Grade 1, 2220|C24|CGA9N3X7S2A106K230KE|1|TDK|2220|10uF||
+8|Fitted|CAP, CERM, 0.1 uF, 16 V, +/- 5%, X7R, 0603|C26|C0603C104J4RACTU|1|Kemet|0603|0.1uF||
+9|Fitted|CAP, CERM, 0.1 uF, 100 V, +/- 10%, X7R, 0805|C28, C35|C2012X7R2A104K125AA|2|TDK|0805|0.1uF||
+10|Fitted|CAP, CERM, 1 uF, 16 V, +/- 10%, X7R, 0603|C29, C31|C1608X7R1C105K080AC|2|TDK|0603|1uF||
+11|Fitted|CAP, CERM, 0.047 uF, 100 V, +/- 10%, X7R, 0805|C30|C2012X7R2A473K125AA|1|TDK|0805|0.047uF||
+12|Fitted|CAP, CERM, 1 uF, 16 V, +/- 10%, X7R, 0603|C32|EMK107B7105KA-T|1|Taiyo Yuden|0603|1uF||
+13|Fitted|CAP, CERM, 3600 pF, 50 V, +/- 5%, C0G/NP0, 0603|C34|GRM1885C1H362JA01D|1|MuRata|0603|3600pF||
+14|Fitted|CAP, CERM, 2.2 uF, 35 V, +/- 10%, X7R, 0805|C36|C2012X7R1V225K085AC|1|TDK|0805|2.2uF||
+15|Fitted|CAP, CERM, 0.01 uF, 16 V, +/- 10%, X7R, 0603|C37, C40|C0603C103K4RACTU|2|Kemet|0603|0.01uF||
+16|Fitted|CAP, CERM, 4.7 uF, 80 V, +/- 10%, X7R, 1210|C38|GRM32ER71K475KE14L|1|MuRata|1210|4.7uF||
+17|Fitted|CAP, CERM, 1 uF, 50 V, +/- 10%, X7R, 0805|C39|CL21B105KBFNNNE|1|Samsung Electro-Mechanics|0805|1uF||
+18|Fitted|CAP, CERM, 2200 pF, 16 V, +/- 10%, X7R, 0603|C44, C45, C46|GRM188R71C222KA01D|3|MuRata|0603|2200pF||
+19|Fitted|LED, Red, SMD|D1|LTST-C170KRKT|1|Lite-On|Red 0805 LED|Red||
+20|Fitted|Diode, Schottky, 200 V, 1 A, PowerDI123|D2|DFLS1200-7|1|Diodes Inc.|PowerDI123|200V||
+21|Fitted|LED, Green, SMD|D3|LTST-C170KGKT|1|Lite-On|LED_0805|Green||
+22|Fitted|LED, Yellow , SMD|D4|LTST-C170KSKT|1|Lite-On|0805 LED|Yellow||
+23|Fitted|Fuse, 30 A, 250 VAC, 100 VDC, SMD|F1|0463030.ER|1|Littelfuse|10.1x3.12mm|||
+24|Fitted|Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead|H1, H2, H3, H4|NY PMS 440 0025 PH|4|B&F Fastener Supply|Screw|||
+25|Fitted|Standoff, Hex, 0.5"L #4-40 Nylon|H5, H6, H7, H8|1902C|4|Keystone|Standoff|||
+26|Fitted|Receptacle, 2.54mm, 10x2, Gold, TH|J1|SSQ-110-01-G-D-001-LL|1|Samtec|Receptacle, 2.54mm, 10x2, TH|||
+27|Fitted|Receptacle, 2.54mm, 10x2, Gold, TH|J2|SSQ-110-01-G-D|1|Samtec|Receptacle, 2.54mm, 10x2, TH|||
+28|Fitted|Terminal Block, 5mm, 5x1, R/A, TH|J3|1792892|1|Phoenix Contact|Terminal Block, 5mm, 5x1, R/A, TH|||
+29|Fitted|Terminal Block, 9.52mm, 2x1, R/A, TH|J5|1902547|1|Phoenix Contact|Terminal Block, 2x1, Pitch 9.52mm|||
+30|Fitted|Terminal Block, 9.52mm, 3x1, R/A, TH|J6|1904150|1|Phoenix Contact|Terminal Block, 3x1, Pitch 9.52mm|||
+31|Fitted|Inductor, Shielded, 330 µH, 0.66 A, 1.1245 ohm, SMD|L1|74404084331|1|Wurth Elektronik|8x8mm|330uH||
+32|Fitted|Thermal Transfer Printable Labels, 0.650" W x 0.200" H - 10,000 per roll|LBL1|THT-14-423-10|1|Brady|PCB Label 0.650 x 0.200 inch|||
+33|Fitted|MOSFET, N-CH, 100 V, 17 A, DNK0008A (VSON-CLIP-8)|Q1, Q2, Q3, Q4, Q5, Q6|CSD19532Q5B|6|Texas Instruments|DNK0008A|100V|None|
+34|Fitted|RES, 383 k, 1%, 0.1 W, AEC-Q200 Grade 0, 0603|R1, R2, R3, R13|CRCW0603383KFKEA|4|Vishay-Dale|0603|383k||
+35|Fitted|RES, 9.76 k, 1%, 0.1 W, 0603|R7, R11, R12, R17|RC0603FR-079K76L|4|Yageo|0603|9.76k||
+36|Fitted|RES, 0.007, 1%, 3 W, AEC-Q200 Grade 0, 2512|R14, R15, R16|CRE2512-FZ-R007E-3|3|Bourns|2512|0.007||
+37|Fitted|RES, 0, 5%, 0.25 W, 1206|R19|RC1206JR-070RL|1|Yageo America|1206|0||
+38|Fitted|RES, 330, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R20, R40, R41|CRCW0603330RJNEA|3|Vishay-Dale|0603|330||
+39|Fitted|RES, 10 k, 5%, 0.1 W, 0603|R21|RC0603JR-0710KL|1|Yageo America|0603|10k||
+40|Fitted|RES, 0, 5%, 0.1 W, 0603|R22, R36|ERJ-3GEY0R00V|2|Panasonic|0603|0||
+41|Fitted|RES, 47 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R23, R38|CRCW060347K0JNEA|2|Vishay-Dale|0603|47k||
+42|Fitted|RES, 75 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R26, R31|CRCW060375K0JNEA|2|Vishay-Dale|0603|75k||
+43|Fitted|RES, 2.61 k, 0.1%, 0.1 W, 0603|R29|RG1608P-2611-B-T5|1|Susumu Co Ltd|0603|2.61k||
+44|Fitted|RES, 10.0 k, 0.1%, 0.1 W, 0603|R33|RG1608P-103-B-T5|1|Susumu Co Ltd|0603|10.0k||
+45|Fitted|RES, 274 k, 1%, 0.1 W, 0603|R34|RC0603FR-07274KL|1|Yageo America|0603|274k||
+46|Fitted|RES, 107 k, 1%, 0.1 W, 0603|R35|RC0603FR-07107KL|1|Yageo America|0603|107k||
+47|Fitted|RES, 2.61, 1%, 0.1 W, AEC-Q200 Grade 0, 0603|R37|CRCW06032R61FKEA|1|Vishay-Dale|0603|2.61||
+48|Fitted|RES, 33 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R43, R44, R47|CRCW060333K0JNEA|3|Vishay-Dale|0603|33k||
+49|Fitted|RES, 1.0 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R49, R51, R53|RCA06031K00JNEA|3|Vishay-Dale|0603|1.0k||
+50|Fitted|Trimming Potentiometer, 50K, 0.5W, TH|R54|3352T-1-503LF|1|Bourns|9.53x8.89mm|50k||
+51|Fitted|RES, 56, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R55, R56, R57|CRCW060356R0JNEA|3|Vishay-Dale|0603|56||
+52|Fitted|RES, 8.06 k, 1%, 0.1 W, 0603|R58|RC0603FR-078K06L|1|Yageo|0603|8.06k||
+53|Fitted|RES, 33.0 k, 1%, 0.125 W, 0603|R59|MCT06030C3302FP500|1|Vishay/Beyschlag|0603|33.0k||
+54|Fitted|Test Point, Miniature, White, TH|TP1, TP2, TP3, TP9, TP10, TP11, TP12, TP13, TP14|5002|9|Keystone|White Miniature Testpoint|||
+55|Fitted|Test Point, Miniature, Red, TH|TP4|5000|1|Keystone|Red Miniature Testpoint|||
+56|Fitted|Test Point, Miniature, Black, TH|TP5|5001|1|Keystone|Black Miniature Testpoint|||
+57|Fitted|1mm Uninsulated Shorting Plug, 10.16mm spacing, TH|TP17, TP18|D3082-05|2|Harwin|Shorting Plug, 10.16mm spacing, TH|||
+58|Fitted|ESD Solution for High-Speed Differential Interface, 4 Channels, -40 to +85 degC,10-pin SON (DQA), Green (RoHS & no Sb/Br)|U1|TPD4S010DQAR|1|Texas Instruments|DQA0010A|||
+59|Fitted|100-V Three-Phase Smart Gate Driver, RGZ0048L (VQFN-48)|U2|DRV8353RHRGZR|1|Texas Instruments|RGZ0048L||Texas Instruments|DRV8353RHRGZT
+60|Fitted|Micropower 250 mA Low-Noise Ultra Low-Dropout Regulator, 5-pin SOT-23, Pb-Free|U3||1|Texas Instruments|DBV0005A|||
+61|Not Fitted|CAP, CERM, 2200 pF, 100 V, +/- 10%, X7R, 0603|C1, C2, C3, C5, C6, C7|GRM188R72A222KA01D|0|MuRata|0603|2200pF||
+62|Not Fitted|CAP, CERM, 2200 pF, 100 V, +/- 10%, X7R, 0603|C8, C9, C10, C14, C15, C16|06031C222KAT2A|0|AVX|0603|2200pF||
+63|Not Fitted|Fiducial mark.  There is nothing to buy or mount.|FID1, FID2, FID3|N/A|0|N/A|N/A|||
+64|Not Fitted|RES, 2.7, 5%, 0.125 W, 0805|R4, R5, R6, R8, R9, R10|CRCW08052R70JNEA|0|Vishay-Dale|0805|2.7||
+65|Not Fitted|RES, 0, 5%, 0.25 W, 1206|R18|RC1206JR-070RL|0|Yageo America|1206|0||
+66|Not Fitted|RES, 0, 5%, 0.1 W, 0603|R24, R28, R30, R39, R48, R50, R52|ERJ-3GEY0R00V|0|Panasonic|0603|0||
+67|Not Fitted|RES, 1.0 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R25|RCA06031K00JNEA|0|Vishay-Dale|0603|1.0k||
+68|Not Fitted|RES, 75 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R27, R32|CRCW060375K0JNEA|0|Vishay-Dale|0603|75k||
+69|Not Fitted|RES, 33 k, 5%, 0.1 W, AEC-Q200 Grade 0, 0603|R42, R45, R46|CRCW060333K0JNEA|0|Vishay-Dale|0603|33k||
