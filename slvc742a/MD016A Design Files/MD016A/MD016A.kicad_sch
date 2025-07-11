@@ -1,0 +1,98 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "9bc0b093-2bd5-410a-8b31-b4127ef616ad")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 76.2 25.4)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "523fb197-20f6-481e-86da-4b36b9264188")
+		(property "Sheetname" ""
+			(at 76.2 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/ucems09/Documents/Github/Pi-BLDC-Controller/slvc742a/MD016A Design Files/MD016A_Hardware.SchDoc"
+			(at 76.2 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MD016A"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 25.4)
+		(size 12.7 3.81)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d77666b2-64e0-4e7a-a99b-e84ab07bbeed")
+		(property "Sheetname" ""
+			(at 25.4 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "C:/Users/ucems09/Documents/Github/Pi-BLDC-Controller/slvc742a/MD016A Design Files/MD016A.SchDoc"
+			(at 25.4 29.7946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "MD016A"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "#")
+		)
+	)
+	(embedded_fonts no)
+)

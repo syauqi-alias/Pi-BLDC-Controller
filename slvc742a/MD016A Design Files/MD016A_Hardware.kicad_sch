@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "c6565988-43d5-4484-b713-9f78f40e416f")
+	(uuid "6c4a4587-eca2-43aa-9e68-b7d1d5a7b642")
 	(paper "User" 431.8 279.4)
 	(title_block
 		(date "Not shown in title block")
@@ -17335,144 +17335,16 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Assembly Variant:"
+	(text "Project Title:"
 		(exclude_from_sim no)
-		(at 333.502 269.24 0)
+		(at 333.502 264.16 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify left bottom)
 		)
-		(uuid "02cbe6cd-f4aa-4c52-aa2e-10b2fe033fac")
-	)
-	(text "Variant"
-		(exclude_from_sim no)
-		(at 83.82 132.08 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "11d3c0b0-c276-4acd-b346-f1391c19c068")
-	)
-	(text "Variant/Label Table"
-		(exclude_from_sim no)
-		(at 104.14 127 0)
-		(effects
-			(font
-				(size 2.032 2.032)
-			)
-		)
-		(uuid "1d86fbbb-88f7-4b87-a090-6b9caa6e7f39")
-	)
-	(text "File:"
-		(exclude_from_sim no)
-		(at 333.502 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "21298011-7ba8-43ad-b055-314a1b2f3129")
-	)
-	(text "Number:"
-		(exclude_from_sim no)
-		(at 295.402 266.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "226e2a6a-8c43-4c4d-aabe-feac7c0394bf")
-	)
-	(text "DRV8353RS-EVM"
-		(exclude_from_sim no)
-		(at 111.76 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "2418386a-381a-4fcf-9760-c9458eb669a9")
-	)
-	(text "${COPYRIGHTYEAR}"
-		(exclude_from_sim no)
-		(at 419.1 274.32 0)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "273e8d7d-97c7-47b6-a477-b2e6456110fd")
-	)
-	(text "${PRJ_CUSTOMER}"
-		(exclude_from_sim no)
-		(at 347.472 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2ce506c6-f4b4-4d6e-a1af-4ddee0ed047e")
-	)
-	(text "${VERSIONCONTROL_REVNUMBER}"
-		(exclude_from_sim no)
-		(at 307.34 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2f5fd7b8-5499-4424-b2e6-9cf1ff99b78c")
-	)
-	(text "Sheet:"
-		(exclude_from_sim no)
-		(at 381.762 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "31464034-af60-43a5-bc20-8306886cbfab")
-	)
-	(text "SVN Rev:"
-		(exclude_from_sim no)
-		(at 295.402 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3206f807-15b4-4b76-8d95-f10bea5ecc4c")
-	)
-	(text "Designed for:"
-		(exclude_from_sim no)
-		(at 333.502 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "32f6f806-9ebd-497a-9045-937f8734f011")
-	)
-	(text "DRV8353RH-EVM"
-		(exclude_from_sim no)
-		(at 111.76 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "363c5daf-9cee-4786-b9ff-6cdc42b211aa")
+		(uuid "052f0b80-6c2f-468d-9e0b-5e92cbbc4773")
 	)
 	(text "${FILENAME}"
 		(exclude_from_sim no)
@@ -17483,246 +17355,7 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "3e177e1e-3abf-456b-9d45-a9bf2f55a4be")
-	)
-	(text "Label Text"
-		(exclude_from_sim no)
-		(at 106.68 132.08 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "445e56fc-d5fa-4aee-b565-eddbde4d938d")
-	)
-	(text "${PRJ_NUMBER}"
-		(exclude_from_sim no)
-		(at 304.8 266.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "46e1631e-fada-4e1a-8187-f62048784884")
-	)
-	(text "Engineer:"
-		(exclude_from_sim no)
-		(at 295.402 274.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c56f179-40bb-4f4e-a55d-1729e61cdc15")
-	)
-	(text "Sheet Title:"
-		(exclude_from_sim no)
-		(at 333.502 266.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "56d818db-033b-40eb-99d0-47553b5a6004")
-	)
-	(text "© Texas Instruments"
-		(exclude_from_sim no)
-		(at 401.32 274.32 0)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b006c15-50b7-4c1b-bf22-0e061cf41fc2")
-	)
-	(text "Orderable:"
-		(exclude_from_sim no)
-		(at 295.402 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5b284ff0-512a-4046-aced-5fff054543d9")
-	)
-	(text "${PRJ_ENGINEER}"
-		(exclude_from_sim no)
-		(at 306.07 274.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6685b2dd-3496-4bbc-b298-685671c704e7")
-	)
-	(text "001"
-		(exclude_from_sim no)
-		(at 83.82 137.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "67a783f1-8622-4fd1-8c60-ef4c0d0901f1")
-	)
-	(text "Size:"
-		(exclude_from_sim no)
-		(at 386.842 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6ad5f8fe-7cd6-43dc-9293-b0edf453d6b9")
-	)
-	(text "${DRAWNBY}"
-		(exclude_from_sim no)
-		(at 306.07 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6caae14a-d60f-4615-ab33-441d62915805")
-	)
-	(text "Project Title:"
-		(exclude_from_sim no)
-		(at 333.502 264.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6eda27b3-f67c-434a-9135-e92d789b15bb")
-	)
-	(text "Drawn By:"
-		(exclude_from_sim no)
-		(at 295.402 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "730aafef-c561-4e90-ac6d-8822e3a44f21")
-	)
-	(text "http://www.ti.com"
-		(exclude_from_sim no)
-		(at 403.86 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "7e70ad58-ff03-4752-98f3-f1b059eabba6")
-	)
-	(text "TID #:"
-		(exclude_from_sim no)
-		(at 295.402 264.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8e7c080e-7b28-4a9e-a54c-02d784e199cb")
-	)
-	(text "${VARIANTNAME}"
-		(exclude_from_sim no)
-		(at 352.298 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "905b3366-41de-4a65-9b86-73e5d5b57806")
-	)
-	(text "${PRJ_TITLE}"
-		(exclude_from_sim no)
-		(at 346.71 264.16 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "935c53b6-7c04-4929-9910-cd2d52557573")
-	)
-	(text "B"
-		(exclude_from_sim no)
-		(at 392.43 271.78 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "956e6333-4bcb-417f-a87c-317398f74394")
-	)
-	(text "${TECHSUPPORT}"
-		(exclude_from_sim no)
-		(at 342.9 274.32 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "95c46801-ef4a-44f7-9aa9-c65146b0aea9")
-	)
-	(text "${##}"
-		(exclude_from_sim no)
-		(at 394.97 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "98bcf21f-76b9-4a7a-b785-f980903b4b58")
-	)
-	(text "of"
-		(exclude_from_sim no)
-		(at 391.668 269.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "9bba2d52-d63b-4cd3-a4b3-fddafbdbe414")
-	)
-	(text "Rev:"
-		(exclude_from_sim no)
-		(at 320.802 266.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a450cbf8-2a85-4736-969b-ef6400fa27ba")
-	)
-	(text "002"
-		(exclude_from_sim no)
-		(at 83.82 142.24 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "a8098a3a-e22f-4b30-9b9e-d44618bac9e8")
+		(uuid "150a88f5-78a0-4158-a019-8ae3680adb28")
 	)
 	(text "${TITLE}"
 		(exclude_from_sim no)
@@ -17733,62 +17366,28 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "c3523b84-7885-4d08-a953-355c7e492f7e")
+		(uuid "1881f3ef-a6fe-4f86-a546-ae0874a91258")
 	)
-	(text "${#}"
+	(text "${COPYRIGHTYEAR}"
 		(exclude_from_sim no)
-		(at 388.62 269.24 0)
+		(at 419.1 274.32 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 1.016 1.016)
 			)
 			(justify left bottom)
 		)
-		(uuid "d1f74210-d7c0-47bb-b9ea-9d37d6f3a8d5")
+		(uuid "2c160d5b-5a29-4552-a9d5-056c37f68cde")
 	)
-	(text "${EVM_ORDERABLE}"
+	(text "Variant/Label Table"
 		(exclude_from_sim no)
-		(at 307.34 260.35 0)
+		(at 104.14 127 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.032 2.032)
 			)
-			(justify left)
 		)
-		(uuid "dce6feb0-6a48-4df7-a573-9f4d1cfaa810")
-	)
-	(text "${SCH_REV}"
-		(exclude_from_sim no)
-		(at 327.66 266.7 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e723fb0e-2113-4cc6-87ea-0cd6a7acf2e6")
-	)
-	(text "${MODIFIEDDATE}"
-		(exclude_from_sim no)
-		(at 386.08 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7c6f452-06c8-403e-9e3a-833946b75b9e")
-	)
-	(text "Mod. Date:"
-		(exclude_from_sim no)
-		(at 373.888 261.62 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ee87b4e3-0322-44d3-b7e3-454ec375eab7")
+		(uuid "32c04824-51da-425e-99c8-bad426589e53")
 	)
 	(text "${TID}"
 		(exclude_from_sim no)
@@ -17799,7 +17398,232 @@
 			)
 			(justify left)
 		)
-		(uuid "f4e46745-bb56-4afe-945b-3411bd4a6499")
+		(uuid "3786acfd-48a3-463e-90e9-6b67d7d59697")
+	)
+	(text "Variant"
+		(exclude_from_sim no)
+		(at 83.82 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "38aa741f-bfe5-4d65-ab01-5c0af3efb7d5")
+	)
+	(text "Engineer:"
+		(exclude_from_sim no)
+		(at 295.402 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "391b3f41-1e08-428c-98e3-f98b8efb19e0")
+	)
+	(text "DRV8353RS-EVM"
+		(exclude_from_sim no)
+		(at 111.76 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3b550927-e3ae-47cd-900a-1bbea88a8b2f")
+	)
+	(text "${VERSIONCONTROL_REVNUMBER}"
+		(exclude_from_sim no)
+		(at 307.34 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3b87db4c-c7de-4417-9e18-eda913643688")
+	)
+	(text "001"
+		(exclude_from_sim no)
+		(at 83.82 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4485043e-6364-4238-a9fb-5e815c31bc8a")
+	)
+	(text "© Texas Instruments"
+		(exclude_from_sim no)
+		(at 401.32 274.32 0)
+		(effects
+			(font
+				(size 1.016 1.016)
+			)
+			(justify left bottom)
+		)
+		(uuid "4646ed7b-23b1-477d-a581-281e318e3d24")
+	)
+	(text "DRV8353RH-EVM"
+		(exclude_from_sim no)
+		(at 111.76 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4683608a-ed2e-467f-9103-9c338d1b55ef")
+	)
+	(text "Rev:"
+		(exclude_from_sim no)
+		(at 320.802 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "56a4f0e7-92e6-4574-889f-0ba493505959")
+	)
+	(text "Sheet:"
+		(exclude_from_sim no)
+		(at 381.762 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5ee44fc4-746e-4361-9065-f88854cb99f3")
+	)
+	(text "${PRJ_ENGINEER}"
+		(exclude_from_sim no)
+		(at 306.07 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "60e9669f-39b0-4677-8441-f51065466f75")
+	)
+	(text "Orderable:"
+		(exclude_from_sim no)
+		(at 295.402 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "61972d77-a59f-480f-a8ce-6c8935eb7fca")
+	)
+	(text "${PRJ_TITLE}"
+		(exclude_from_sim no)
+		(at 346.71 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "74dcc10a-e5ab-4b67-b15c-a77474f9ad78")
+	)
+	(text "${##}"
+		(exclude_from_sim no)
+		(at 394.97 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7ad8b633-7256-4a1d-a84c-b37c2aeb5f03")
+	)
+	(text "of"
+		(exclude_from_sim no)
+		(at 391.668 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7b4ec9bd-3475-466a-9514-de5060c6a8cc")
+	)
+	(text "Size:"
+		(exclude_from_sim no)
+		(at 386.842 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "83b45d3e-18e8-48c2-bfcd-04ec96ff36aa")
+	)
+	(text "002"
+		(exclude_from_sim no)
+		(at 83.82 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8400cf8a-5db7-4e7e-b287-fb8299f298c4")
+	)
+	(text "Drawn By:"
+		(exclude_from_sim no)
+		(at 295.402 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8924a218-c4a2-4669-85bd-adad3fd1f0ac")
+	)
+	(text "Label Text"
+		(exclude_from_sim no)
+		(at 106.68 132.08 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "893e957f-72f1-4900-bb9d-5f63ce8a80f5")
+	)
+	(text "${PRJ_NUMBER}"
+		(exclude_from_sim no)
+		(at 304.8 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8c8e4f7b-f7c8-4a25-8398-c144608e084a")
+	)
+	(text "http://www.ti.com"
+		(exclude_from_sim no)
+		(at 403.86 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90bbbae0-6e56-441b-ad05-fbfac077fa22")
+	)
+	(text "B"
+		(exclude_from_sim no)
+		(at 392.43 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a3ec2e0d-ad29-44f1-9a29-4cb80d6fb03f")
 	)
 	(text "Contact:"
 		(exclude_from_sim no)
@@ -17810,7 +17634,183 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "fb38bdc2-fa71-4dee-a122-5e837f2e52ea")
+		(uuid "a446f08f-5d0d-4ffd-9fea-62f5f46852c2")
+	)
+	(text "${SCH_REV}"
+		(exclude_from_sim no)
+		(at 327.66 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a4d206fa-40f7-4c71-9797-086b306f0c0d")
+	)
+	(text "Number:"
+		(exclude_from_sim no)
+		(at 295.402 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a8de06af-68fd-48d6-938a-d1a89cdd21bb")
+	)
+	(text "${TECHSUPPORT}"
+		(exclude_from_sim no)
+		(at 342.9 274.32 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "adfccf3d-da5d-4a82-92e6-e06b6d6bde02")
+	)
+	(text "${EVM_ORDERABLE}"
+		(exclude_from_sim no)
+		(at 307.34 260.35 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae4058ee-197e-42fe-a244-c7dace275b01")
+	)
+	(text "${MODIFIEDDATE}"
+		(exclude_from_sim no)
+		(at 386.08 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b8b56c41-f76d-450c-8339-c5edf81b8e55")
+	)
+	(text "Assembly Variant:"
+		(exclude_from_sim no)
+		(at 333.502 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bcf28362-4ee0-4001-9c27-4772aece7c57")
+	)
+	(text "File:"
+		(exclude_from_sim no)
+		(at 333.502 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bd877537-f14c-43a5-a1c2-befda425ed3e")
+	)
+	(text "${DRAWNBY}"
+		(exclude_from_sim no)
+		(at 306.07 271.78 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bef5f955-3647-4584-b796-7bf858c3ed42")
+	)
+	(text "${PRJ_CUSTOMER}"
+		(exclude_from_sim no)
+		(at 347.472 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7153e49-aad4-422d-a7d0-238562356bdf")
+	)
+	(text "${#}"
+		(exclude_from_sim no)
+		(at 388.62 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d100974c-70ab-44db-b221-37d31034413b")
+	)
+	(text "${VARIANTNAME}"
+		(exclude_from_sim no)
+		(at 352.298 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d75d1d70-7165-4047-b480-b66affd09e64")
+	)
+	(text "Sheet Title:"
+		(exclude_from_sim no)
+		(at 333.502 266.7 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8d72b36-c910-4a9a-8beb-5518c2ce4697")
+	)
+	(text "Designed for:"
+		(exclude_from_sim no)
+		(at 333.502 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d8f8f227-7d60-498c-a6ee-c30898430a9c")
+	)
+	(text "SVN Rev:"
+		(exclude_from_sim no)
+		(at 295.402 269.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e944b8bd-03c3-4ac0-ae49-6b7d8153e149")
+	)
+	(text "Mod. Date:"
+		(exclude_from_sim no)
+		(at 373.888 261.62 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec87c41b-848d-42a2-9431-9db067091922")
+	)
+	(text "TID #:"
+		(exclude_from_sim no)
+		(at 295.402 264.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fa065bbd-b5ca-4bdf-b00f-aaf36eeb3a92")
 	)
 	(text_box "Texas Instruments and/or its licensors do not warrant the accuracy or completeness of this specification or any information contained therein. Texas Instruments and/or its licensors do not warrant that this design will meet the specifications, will be suitable for your application or fit for any particular purpose, or will operate in an implementation. Texas Instruments and/or its licensors do not warrant that the design is production worthy. You should completely validate and test your design implementation to confirm the system functionality for your application."
 		(exclude_from_sim no)
@@ -17831,282 +17831,7 @@
 			)
 			(justify left top)
 		)
-		(uuid "6348f739-f90d-4e26-b72a-2779544cade4")
-	)
-	(polyline
-		(pts
-			(xy 294.64 271.78) (xy 332.74 271.78)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "088dbe4b-b22f-4843-a9b5-1b75c9945dcc")
-	)
-	(polyline
-		(pts
-			(xy 332.74 269.24) (xy 294.64 269.24)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "0c473978-2681-4487-b2ac-2ae2af307be5")
-	)
-	(polyline
-		(pts
-			(xy 96.52 129.54) (xy 96.52 170.18)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "0eb9086c-0de7-4ea3-b7e1-9e8f0f372f4f")
-	)
-	(polyline
-		(pts
-			(xy 132.08 129.54) (xy 132.08 170.18)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "0efd48bb-d0ad-4650-85ae-b04ab4035eb8")
-	)
-	(polyline
-		(pts
-			(xy 132.08 144.78) (xy 76.2 144.78)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "157cd7f9-d539-451b-97ae-f0950edf8407")
-	)
-	(polyline
-		(pts
-			(xy 332.74 274.32) (xy 332.74 259.08)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "19e7c0e0-2c22-4eca-a6f6-fafe22c790d2")
-	)
-	(polyline
-		(pts
-			(xy 104.14 266.7) (xy 294.64 266.7)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "1cc5704a-cfbc-45cc-b18c-af1c48348f0a")
-	)
-	(polyline
-		(pts
-			(xy 76.2 129.54) (xy 132.08 129.54)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "21e97885-3583-4b0b-b62e-38fba2f2d280")
-	)
-	(polyline
-		(pts
-			(xy 132.08 165.1) (xy 76.2 165.1)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "258df8e5-578b-4f79-8a32-68eceb93910b")
-	)
-	(polyline
-		(pts
-			(xy 398.78 271.78) (xy 398.78 259.08)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "2699ceda-c807-4f3c-b987-9f7a881cc671")
-	)
-	(polyline
-		(pts
-			(xy 132.08 124.46) (xy 132.08 129.54)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "274651f4-aa9d-4377-b424-080a08800b76")
-	)
-	(polyline
-		(pts
-			(xy 76.2 129.54) (xy 76.2 124.46)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "32dee7b1-d66e-428e-bc17-ead98af381d6")
-	)
-	(polyline
-		(pts
-			(xy 398.78 269.24) (xy 332.74 269.24)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "3377cf2e-0cf4-454a-bdd9-42a063bee397")
-	)
-	(polyline
-		(pts
-			(xy 294.64 274.32) (xy 294.64 259.08)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "366c26d3-3d73-4fbd-b27c-ab17d3127c25")
-	)
-	(polyline
-		(pts
-			(xy 320.04 264.16) (xy 320.04 266.7)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "37997a67-61c5-4350-9dd5-e7814db13999")
-	)
-	(polyline
-		(pts
-			(xy 76.2 129.54) (xy 76.2 170.18)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "3cdd6b70-7ada-4b05-ac91-73f43a1ca5fa")
-	)
-	(polyline
-		(pts
-			(xy 332.74 259.08) (xy 426.72 259.08)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "48863b76-323e-4d5e-987f-119ac103a49f")
-	)
-	(polyline
-		(pts
-			(xy 132.08 134.62) (xy 76.2 134.62)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "4de7b33a-7816-4f05-b9f2-3207db54c75f")
-	)
-	(polyline
-		(pts
-			(xy 381 266.7) (xy 381 269.24)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "4fd10e88-3523-49d4-a07b-4789d336ffca")
-	)
-	(polyline
-		(pts
-			(xy 332.74 266.7) (xy 398.78 266.7)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "520a36b8-7b50-404c-ab19-92d3830368ea")
-	)
-	(polyline
-		(pts
-			(xy 294.64 264.16) (xy 332.74 264.16)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "533846f6-6b3e-43b8-86de-e6b88dd2392a")
-	)
-	(polyline
-		(pts
-			(xy 332.74 266.7) (xy 398.78 266.7)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "5ff00694-a44f-4eef-8b81-ae9723564b8e")
-	)
-	(polyline
-		(pts
-			(xy 294.64 261.62) (xy 332.74 261.62)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "62fb39a4-4fed-4fd1-a537-46e3eca2fec9")
-	)
-	(polyline
-		(pts
-			(xy 373.38 259.08) (xy 373.38 261.62)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "85829454-844c-4908-a6ee-42f48124d58e")
-	)
-	(polyline
-		(pts
-			(xy 132.08 170.18) (xy 76.2 170.18)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "86f50287-268e-46b3-b218-45f6083171ce")
+		(uuid "0549b255-85ab-4ddf-b546-d1c591e2b234")
 	)
 	(polyline
 		(pts
@@ -18117,117 +17842,29 @@
 			(type solid)
 			(color 0 0 0 1)
 		)
-		(uuid "9623ac76-0b3f-4e30-9e23-27ffc28da9bc")
+		(uuid "01baef8f-a600-43d6-923e-c03df7adb052")
 	)
 	(polyline
 		(pts
-			(xy 132.08 154.94) (xy 76.2 154.94)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "99a3fb6f-cfc6-4f10-a03b-c5d9fcb06930")
-	)
-	(polyline
-		(pts
-			(xy 294.64 266.7) (xy 332.74 266.7)
+			(xy 294.64 264.16) (xy 332.74 264.16)
 		)
 		(stroke
 			(width 0.0254)
 			(type solid)
 			(color 0 0 0 1)
 		)
-		(uuid "b22b889d-c397-4f09-b9bc-7d9b72f3e6f5")
+		(uuid "035d87dd-b765-4d7b-b0ac-e07ce333d5c5")
 	)
 	(polyline
 		(pts
-			(xy 426.72 271.78) (xy 332.74 271.78)
+			(xy 332.74 269.24) (xy 294.64 269.24)
 		)
 		(stroke
 			(width 0.0254)
 			(type solid)
 			(color 0 0 0 1)
 		)
-		(uuid "bdf8296c-f549-4bed-8f65-a32656bfc038")
-	)
-	(polyline
-		(pts
-			(xy 294.64 259.08) (xy 332.74 259.08)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "c1d22ca4-d89b-4f7e-8a54-9e1b072f3292")
-	)
-	(polyline
-		(pts
-			(xy 132.08 139.7) (xy 76.2 139.7)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "c6a84b28-36a9-4f8e-ab24-c27fb8b5ee0e")
-	)
-	(polyline
-		(pts
-			(xy 132.08 160.02) (xy 76.2 160.02)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "c94434cd-f6e5-4060-8792-9b37e1e525f7")
-	)
-	(polyline
-		(pts
-			(xy 332.74 264.16) (xy 398.78 264.16)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "cee439e3-aab7-42de-84e9-1d2c543fdf47")
-	)
-	(polyline
-		(pts
-			(xy 104.14 266.7) (xy 104.14 274.32)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "daad9d06-732f-41a4-bbdf-a337ef09c891")
-	)
-	(polyline
-		(pts
-			(xy 386.08 269.24) (xy 386.08 271.78)
-		)
-		(stroke
-			(width 0.0254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "e9f18a78-6dcd-4b83-a7c9-26737f254b1d")
-	)
-	(polyline
-		(pts
-			(xy 132.08 149.86) (xy 76.2 149.86)
-		)
-		(stroke
-			(width 0.254)
-			(type solid)
-			(color 0 0 0 1)
-		)
-		(uuid "ea55b27a-692b-46c7-836d-9af682d605d0")
+		(uuid "068a3f2e-1db2-43fb-b1ba-bd7e5e218b3b")
 	)
 	(polyline
 		(pts
@@ -18238,12 +17875,375 @@
 			(type solid)
 			(color 0 0 0 1)
 		)
-		(uuid "ee7a228f-ba7c-4546-9a2c-a1a5eda850d8")
+		(uuid "0ac3de69-c6a2-4891-ade0-433d7b6c6fac")
+	)
+	(polyline
+		(pts
+			(xy 426.72 271.78) (xy 332.74 271.78)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "0e41fe23-02af-4e90-b4ad-355e691358e1")
+	)
+	(polyline
+		(pts
+			(xy 132.08 129.54) (xy 132.08 170.18)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "22c2fe5c-98db-4e11-aa5e-7137642cbbf1")
+	)
+	(polyline
+		(pts
+			(xy 332.74 266.7) (xy 398.78 266.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "29d1e909-77f7-4317-9499-438b02c61301")
+	)
+	(polyline
+		(pts
+			(xy 294.64 259.08) (xy 332.74 259.08)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2ae3b5b2-59dc-4519-83b6-6e37615991d6")
+	)
+	(polyline
+		(pts
+			(xy 332.74 264.16) (xy 398.78 264.16)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2f323623-e340-4794-aa01-78bf794285b2")
+	)
+	(polyline
+		(pts
+			(xy 294.64 266.7) (xy 332.74 266.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "2f67bf3d-1300-42ce-8d88-d2ff06180a9d")
+	)
+	(polyline
+		(pts
+			(xy 132.08 149.86) (xy 76.2 149.86)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "37564437-ccec-43f3-962b-676ebeb9f25d")
+	)
+	(polyline
+		(pts
+			(xy 132.08 124.46) (xy 132.08 129.54)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "380494ee-4c76-4f8e-9ce7-c6f088ad24e8")
+	)
+	(polyline
+		(pts
+			(xy 398.78 271.78) (xy 398.78 259.08)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "3c037143-857c-4ff0-9710-cdb63d44576c")
+	)
+	(polyline
+		(pts
+			(xy 76.2 129.54) (xy 76.2 124.46)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "51e5f58a-c174-4124-b2a6-255b1cf27655")
+	)
+	(polyline
+		(pts
+			(xy 104.14 266.7) (xy 294.64 266.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "58cea5f3-2c71-4036-ad62-0f01beca2330")
+	)
+	(polyline
+		(pts
+			(xy 294.64 271.78) (xy 332.74 271.78)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "61ceeefe-f420-442f-9316-0fc0d5919d16")
+	)
+	(polyline
+		(pts
+			(xy 373.38 259.08) (xy 373.38 261.62)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "7429ae86-f725-4aff-b7d7-79e1c443b61c")
+	)
+	(polyline
+		(pts
+			(xy 96.52 129.54) (xy 96.52 170.18)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "7aaeb473-9ff5-42ad-adfa-23ef287af208")
+	)
+	(polyline
+		(pts
+			(xy 294.64 261.62) (xy 332.74 261.62)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "7afbca37-923f-47ee-b655-b7cde2435670")
+	)
+	(polyline
+		(pts
+			(xy 332.74 274.32) (xy 332.74 259.08)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "7c20d567-98ba-47b4-9db8-bbf3cc6994a1")
+	)
+	(polyline
+		(pts
+			(xy 132.08 144.78) (xy 76.2 144.78)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "87f4842a-8c83-45a6-b60f-f485a6e2b3ab")
+	)
+	(polyline
+		(pts
+			(xy 320.04 264.16) (xy 320.04 266.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "8adf17b9-bd81-4334-aac0-17e54f175385")
+	)
+	(polyline
+		(pts
+			(xy 381 266.7) (xy 381 269.24)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "8e977e75-c6b8-4234-b44f-5be8282fd758")
+	)
+	(polyline
+		(pts
+			(xy 132.08 134.62) (xy 76.2 134.62)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "9b429019-9d5f-42fd-a1d3-11134bbde58c")
+	)
+	(polyline
+		(pts
+			(xy 132.08 154.94) (xy 76.2 154.94)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "a382dbec-c536-4ed1-9545-f68dade5811c")
+	)
+	(polyline
+		(pts
+			(xy 132.08 165.1) (xy 76.2 165.1)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "bc3a758c-6e8b-4cab-b29f-da8219b9215a")
+	)
+	(polyline
+		(pts
+			(xy 104.14 266.7) (xy 104.14 274.32)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "c182159d-6fd3-4ef8-a843-92d8a63113c3")
+	)
+	(polyline
+		(pts
+			(xy 386.08 269.24) (xy 386.08 271.78)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "c3e347f1-0bc5-4c81-8715-c5aa5483b0f1")
+	)
+	(polyline
+		(pts
+			(xy 398.78 269.24) (xy 332.74 269.24)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "c8dbfb68-5fdb-46a2-892c-8cb392587638")
+	)
+	(polyline
+		(pts
+			(xy 132.08 170.18) (xy 76.2 170.18)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "cd2665d4-8619-49ef-937f-063eaae94705")
+	)
+	(polyline
+		(pts
+			(xy 332.74 259.08) (xy 426.72 259.08)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "cd3ca75e-d740-495d-89ab-c40e2f19d65b")
+	)
+	(polyline
+		(pts
+			(xy 132.08 160.02) (xy 76.2 160.02)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "cd6792ce-bc7c-45c8-b1b9-5c77f636dd6c")
+	)
+	(polyline
+		(pts
+			(xy 294.64 274.32) (xy 294.64 259.08)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "d1ae7f49-a7b9-4280-ae97-a6399f3c212b")
+	)
+	(polyline
+		(pts
+			(xy 132.08 139.7) (xy 76.2 139.7)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "d4accbbe-0c0f-4414-83b5-99c6815f2020")
+	)
+	(polyline
+		(pts
+			(xy 76.2 129.54) (xy 76.2 170.18)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "de03f5ba-5778-4350-aa47-ea31984bc5ca")
+	)
+	(polyline
+		(pts
+			(xy 332.74 266.7) (xy 398.78 266.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "e15a4e90-ffce-4b4e-95de-bff55182266b")
+	)
+	(polyline
+		(pts
+			(xy 76.2 129.54) (xy 132.08 129.54)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 0 1)
+		)
+		(uuid "e1de6158-aaad-432a-983c-7e37745d8ebb")
 	)
 	(image
 		(at 412.75 264.3395)
 		(scale 0.322266)
-		(uuid "d73299cf-9f32-43d0-a5c8-f0c3dbf63ebe")
+		(uuid "79946f05-6bee-4103-b3b4-a7b504472359")
 		(data "Qk02cBYAAAAAADYAAAAoAAAAAAQAAGcBAAABACAAAAAAAABwFgAAAAAAAAAAAAAAAAAAAAAA////"
 			"////////////////////////////////////////////////////////////////////////////"
 			"////////////////////////////////////////////////////////////////////////////"
@@ -44047,15 +44047,15 @@
 	)
 	(symbol
 		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
-		(at 15.24 55.88 0)
+		(at 45.72 17.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "0726d9bb-7d8b-4894-9df9-0ff2f6c789c3")
-		(property "Reference" "H4"
-			(at 12.7 53.34 0)
+		(uuid "095f4805-4e3e-4e28-972f-7347ad99bdd1")
+		(property "Reference" "H1"
+			(at 43.18 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44064,7 +44064,7 @@
 			)
 		)
 		(property "Value" "NY PMS 440 0025 PH"
-			(at 12.7 60.96 0)
+			(at 43.18 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44073,7 +44073,7 @@
 			)
 		)
 		(property "Footprint" "NY PMS 440 0025 PH"
-			(at 15.24 55.88 0)
+			(at 45.72 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44082,7 +44082,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 15.24 55.88 0)
+			(at 45.72 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44091,7 +44091,7 @@
 			)
 		)
 		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
-			(at 15.24 55.88 0)
+			(at 45.72 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44100,7 +44100,7 @@
 			)
 		)
 		(property "COMPTYPE" "Hardware"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44110,7 +44110,7 @@
 			)
 		)
 		(property "MANUFACTURER" "B&F Fastener Supply"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44120,7 +44120,7 @@
 			)
 		)
 		(property "MOUNTTYPE" "N/A"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44130,7 +44130,7 @@
 			)
 		)
 		(property "ROHS" "Y"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44140,7 +44140,7 @@
 			)
 		)
 		(property "PARTNUMBER" "NY PMS 440 0025 PH"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44150,7 +44150,7 @@
 			)
 		)
 		(property "PACKAGEREFERENCE" "Screw"
-			(at 123.952 -90.424 0)
+			(at 154.432 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44160,7 +44160,7 @@
 			)
 		)
 		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 126.492 -82.55 0)
+			(at 156.972 -120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44170,7 +44170,7 @@
 			)
 		)
 		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
-			(at 126.492 -82.55 0)
+			(at 156.972 -120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44180,7 +44180,7 @@
 			)
 		)
 		(property "CLASSNAME" "Mounting Holes"
-			(at 12.7 63.5 0)
+			(at 43.18 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44190,7 +44190,7 @@
 			)
 		)
 		(property "ALTERNATE MANUFACTURER" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44200,7 +44200,7 @@
 			)
 		)
 		(property "ALTERNATE PARTNUMBER" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44210,7 +44210,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44220,7 +44220,7 @@
 			)
 		)
 		(property "PUBLISHER" "Texas Instruments"
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44230,7 +44230,7 @@
 			)
 		)
 		(property "NOTE" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44240,7 +44240,7 @@
 			)
 		)
 		(property "SUPPLIER 1" "Digi-Key"
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44250,7 +44250,7 @@
 			)
 		)
 		(property "SUPPLIER 2" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44260,7 +44260,7 @@
 			)
 		)
 		(property "SUPPLIER 3" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44270,7 +44270,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 1" "H542-ND"
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44280,7 +44280,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 2" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44290,7 +44290,7 @@
 			)
 		)
 		(property "SUPPLIER PART NUMBER 3" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44300,7 +44300,7 @@
 			)
 		)
 		(property "ALTIUM_VALUE" ""
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44310,7 +44310,7 @@
 			)
 		)
 		(property "KEY" "NY PMS 440 0025 PH"
-			(at 12.7 50.8 0)
+			(at 43.18 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44320,432 +44320,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "a320d173-839b-4d6b-bf50-07ac88309aeb")
+			(uuid "70991de0-d2b3-4c4d-96dc-5e6c5cbdce81")
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074838-1_Altium Vault - TI")
-		(at 68.58 88.033 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "07adb703-e4d1-4649-8caf-69709b6b6c09")
-		(property "Reference" "Logo6"
-			(at 63.98 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Texas Instruments"
-			(at 63.98 94.129 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "TI_Stacked_Overlay_Small"
-			(at 68.58 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 68.58 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Texas Instrument Corporate Signature"
-			(at 68.58 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLVERSION" "2011-08-22"
-			(at 177.292 -58.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 179.832 -53.445 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 62.172 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 62.172 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "Logo"
-			(at 62.172 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 62.172 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "TI_Logo"
-			(at 64.053 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "Texas Instruments"
-			(at 64.053 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Logo"
-			(at 62.172 -60.049 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "Logo6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
-		(at 43.18 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "191ef188-4dd0-4b9b-9b28-69a6f60913c6")
-		(property "Reference" "FID3"
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 41.91 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Fiducial10-20"
-			(at 43.18 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 43.18 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
-			(at 43.18 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Fiducial"
-			(at 40.64 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "N/A"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "N/A"
-			(at 40.64 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "FiducialMark"
-			(at 40.64 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Fiducial"
-			(at 40.64 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "FID3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074844-1_Altium Vault - TI")
-		(at 96.52 86.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "221a90cc-0a54-456d-a117-9d8e2751a5c6")
-		(property "Reference" "Logo8"
-			(at 89.52 81.131 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CE Mark"
-			(at 89.52 94.129 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "CE_Mark_5mm"
-			(at 96.52 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 96.52 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "CE Mark"
-			(at 96.52 86.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "CE Mark"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "CE Mark"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "CE Mark"
-			(at 89.52 -61.722 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "Logo8")
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -44753,15 +44333,15 @@
 	)
 	(symbol
 		(lib_id "Altium Vault - TI:root_0_CMP-0074837-1_Altium Vault - TI")
-		(at 88.138 103.886 0)
+		(at 88.138 65.786 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "383124d8-cfaf-452d-bc68-8c7fc5b654c0")
-		(property "Reference" "LOGO10"
-			(at 81.915 98.238 0)
+		(uuid "122498b4-50e0-4fff-8466-3c637a208f7a")
+		(property "Reference" "LOGO1"
+			(at 81.915 60.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44770,7 +44350,7 @@
 			)
 		)
 		(property "Value" "CAUTION HOT SURFACE"
-			(at 81.915 111.849 0)
+			(at 81.915 73.749 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44779,7 +44359,7 @@
 			)
 		)
 		(property "Footprint" "IEC_HotSurface_Small"
-			(at 88.138 103.886 0)
+			(at 88.138 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44788,7 +44368,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.138 103.886 0)
+			(at 88.138 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44797,7 +44377,7 @@
 			)
 		)
 		(property "Description" "IEC 61010-1 Hot Surface Warning"
-			(at 88.138 103.886 0)
+			(at 88.138 65.786 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44806,7 +44386,7 @@
 			)
 		)
 		(property "SYMBOLVERSION" "2011-08-22"
-			(at 196.85 -42.418 0)
+			(at 196.85 -80.518 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44816,7 +44396,7 @@
 			)
 		)
 		(property "SYMBOLCREATOR" "a0412235"
-			(at 199.39 -37.592 0)
+			(at 199.39 -75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44826,7 +44406,7 @@
 			)
 		)
 		(property "PUBLISHED" "2009-03-03"
-			(at 81.915 -44.196 0)
+			(at 81.915 -82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44836,7 +44416,7 @@
 			)
 		)
 		(property "PUBLISHER" "Texas Instruments"
-			(at 81.915 -44.196 0)
+			(at 81.915 -82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44846,7 +44426,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 81.915 -44.196 0)
+			(at 81.915 -82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44856,7 +44436,7 @@
 			)
 		)
 		(property "LIB REFERENCE" "IEC_HotSurface"
-			(at 81.915 98.238 0)
+			(at 81.915 60.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44866,7 +44446,7 @@
 			)
 		)
 		(property "PARTNUMBER" "CAUTION HOT SURFACE"
-			(at 81.915 98.238 0)
+			(at 81.915 60.138 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44876,7 +44456,7 @@
 			)
 		)
 		(property "LIBRARY REFERENCE" "IEC_HotSurface"
-			(at 81.915 -44.196 0)
+			(at 81.915 -82.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -44887,866 +44467,8 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "LOGO10")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074835-1_Altium Vault - TI")
-		(at 119.38 65.532 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3f0301a4-44ec-4a69-988e-a078a39549d2")
-		(property "Reference" "LOGO2"
-			(at 113.106 60.037 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "DANGER HIGH VOLTAGE"
-			(at 113.106 73.647 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IEC_HighVoltage_Small"
-			(at 119.38 65.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 65.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IEC 61010-1 High Voltage Warning"
-			(at 119.38 65.532 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLVERSION" "2011-08-22"
-			(at 228.092 -80.772 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 230.632 -75.946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 113.106 -82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 113.106 -82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 113.106 -82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "IEC_HighVoltage"
-			(at 113.106 60.037 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
-			(at 113.106 60.037 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
-			(at 113.106 -82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "LOGO2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074835-1_Altium Vault - TI")
-		(at 118.618 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "47287e0a-bc46-4d32-8ae5-cd191951319f")
-		(property "Reference" "LOGO3"
-			(at 112.344 45.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "DANGER HIGH VOLTAGE"
-			(at 112.344 58.915 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IEC_HighVoltage_Small"
-			(at 118.618 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 118.618 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IEC 61010-1 High Voltage Warning"
-			(at 118.618 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLVERSION" "2011-08-22"
-			(at 227.33 -95.504 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 229.87 -90.678 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 112.344 -97.282 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 112.344 -97.282 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 112.344 -97.282 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "IEC_HighVoltage"
-			(at 112.344 45.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
-			(at 112.344 45.305 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
-			(at 112.344 -97.282 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "LOGO3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
-		(at 15.24 17.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "4ccdc5de-f334-402a-b049-02a0e7c6978f")
-		(property "Reference" "H2"
-			(at 12.7 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "NY PMS 440 0025 PH"
-			(at 12.7 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "NY PMS 440 0025 PH"
-			(at 15.24 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 15.24 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
-			(at 15.24 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "B&F Fastener Supply"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "NY PMS 440 0025 PH"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Screw"
-			(at 123.952 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 126.492 -120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
-			(at 126.492 -120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "Mounting Holes"
-			(at 12.7 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "H542-ND"
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "NY PMS 440 0025 PH"
-			(at 12.7 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e9e1bc00-d3a4-40ed-a1a6-24dceee377a4")
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
-		(at 15.24 38.1 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "50334adb-e0d5-48a9-8855-5b07f742a669")
-		(property "Reference" "H3"
-			(at 12.7 35.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "NY PMS 440 0025 PH"
-			(at 12.7 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "NY PMS 440 0025 PH"
-			(at 15.24 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 15.24 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
-			(at 15.24 38.1 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "B&F Fastener Supply"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "NY PMS 440 0025 PH"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Screw"
-			(at 123.952 -108.204 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 126.492 -100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
-			(at 126.492 -100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "Mounting Holes"
-			(at 12.7 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "H542-ND"
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "NY PMS 440 0025 PH"
-			(at 12.7 33.02 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b9804187-2784-40e7-921c-98a9cc7a8118")
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H3")
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "LOGO1")
 					(unit 1)
 				)
 			)
@@ -45760,7 +44482,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "667c359f-cd31-4f2c-ad5c-ba5dc47b763f")
+		(uuid "3495a8e8-bb9b-44b6-95f2-b806d64fa349")
 		(property "Reference" "LBL1"
 			(at 17.78 137.16 0)
 			(effects
@@ -46027,7 +44749,7 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "LBL1")
 					(unit 1)
 				)
@@ -46035,16 +44757,16 @@
 		)
 	)
 	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0080604-2_Altium Vault - TI")
-		(at 170.18 25.4 0)
+		(lib_id "Altium Vault - TI:root_0_CMP-0074835-1_Altium Vault - TI")
+		(at 119.38 65.532 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "684bca08-add2-42bb-b282-00d40b100fc3")
-		(property "Reference" "!PCB2"
-			(at 166.37 24.13 0)
+		(uuid "366b252f-2c51-4724-8aa8-ae335ab0d191")
+		(property "Reference" "LOGO2"
+			(at 113.106 60.037 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46052,8 +44774,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "MechPart"
-			(at 166.37 29.21 0)
+		(property "Value" "DANGER HIGH VOLTAGE"
+			(at 113.106 73.647 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46061,8 +44783,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" ""
-			(at 170.18 25.4 0)
+		(property "Footprint" "IEC_HighVoltage_Small"
+			(at 119.38 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46071,7 +44793,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 25.4 0)
+			(at 119.38 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46079,264 +44801,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Partner board for MD016  Kitting item"
-			(at 170.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "Paste URL for datasheet here"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Mechanical"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Used in BOM report"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Any"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "MD017"
-			(at 165.1 -122.682 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "DISCRIPTION" "Partner board for MD016  Kitting item"
-			(at 166.37 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "!PCB2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074847-1_Altium Vault - TI")
-		(at 119.38 88.033 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6b157b90-5dca-4256-be89-08175415cf27")
-		(property "Reference" "Logo9"
-			(at 114.78 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "FCC disclaimer"
-			(at 114.78 94.129 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "FCC_disclaimer"
-			(at 119.38 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 119.38 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "FCC_disclaimer"
-			(at 119.38 88.033 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 112.972 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 112.972 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 112.972 -55.477 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "FCC_disclaimer"
-			(at 114.853 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "FCC disclaimer"
-			(at 114.853 84.731 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Logo"
-			(at 112.972 -60.049 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "Logo9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074837-1_Altium Vault - TI")
-		(at 88.138 50.546 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7025e527-d9ac-4fe0-85c4-f04a8a28be71")
-		(property "Reference" "LOGO4"
-			(at 81.915 44.898 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CAUTION HOT SURFACE"
-			(at 81.915 58.509 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IEC_HotSurface_Small"
-			(at 88.138 50.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.138 50.546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IEC 61010-1 Hot Surface Warning"
-			(at 88.138 50.546 0)
+		(property "Description" "IEC 61010-1 High Voltage Warning"
+			(at 119.38 65.532 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46345,7 +44811,7 @@
 			)
 		)
 		(property "SYMBOLVERSION" "2011-08-22"
-			(at 196.85 -95.758 0)
+			(at 228.092 -80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46355,7 +44821,7 @@
 			)
 		)
 		(property "SYMBOLCREATOR" "a0412235"
-			(at 199.39 -90.932 0)
+			(at 230.632 -75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46365,7 +44831,7 @@
 			)
 		)
 		(property "PUBLISHED" "2009-03-03"
-			(at 81.915 -97.536 0)
+			(at 113.106 -82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46375,7 +44841,7 @@
 			)
 		)
 		(property "PUBLISHER" "Texas Instruments"
-			(at 81.915 -97.536 0)
+			(at 113.106 -82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46385,7 +44851,7 @@
 			)
 		)
 		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 81.915 -97.536 0)
+			(at 113.106 -82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46394,8 +44860,8 @@
 				(hide yes)
 			)
 		)
-		(property "LIB REFERENCE" "IEC_HotSurface"
-			(at 81.915 44.898 0)
+		(property "LIB REFERENCE" "IEC_HighVoltage"
+			(at 113.106 60.037 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46404,8 +44870,8 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNUMBER" "CAUTION HOT SURFACE"
-			(at 81.915 44.898 0)
+		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
+			(at 113.106 60.037 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46414,291 +44880,8 @@
 				(hide yes)
 			)
 		)
-		(property "LIBRARY REFERENCE" "IEC_HotSurface"
-			(at 81.915 -97.536 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "LOGO4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
-		(at 58.42 15.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "71945146-196d-4cdb-988d-645788b90a53")
-		(property "Reference" "H5"
-			(at 54.356 11.811 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Nut"
-			(at 54.356 21.209 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Keystone_1902C"
-			(at 58.42 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 58.42 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
-			(at 58.42 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Keystone"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "1902C"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Standoff"
-			(at 167.132 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 169.672 -123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
-			(at 169.672 -123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 54.356 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "1902C"
-			(at 54.356 9.271 0)
+		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
+			(at 113.106 -82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -46709,547 +44892,8 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
-		(at 27.94 177.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "7772fbd1-e652-4da8-9e24-981938c162dc")
-		(property "Reference" "ZZ2"
-			(at 17.78 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "These assemblies are ESD sensitive, ESD precautions shall be observed."
-			(at 17.78 181.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "AssemblyNote"
-			(at 27.94 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "These assemblies are ESD sensitive, ESD precautions shall be observed."
-			(at 27.94 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "AssemblyNote"
-			(at 139.192 39.37 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "AssemblyNote"
-			(at 17.78 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 17.78 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-08-10"
-			(at 17.78 29.718 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "AssemblyNote"
-			(at 17.78 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "ZZ2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
-		(at 27.94 15.24 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "81e21d3d-760c-4ace-8f16-6dc9e10d3a8c")
-		(property "Reference" "H6"
-			(at 23.876 11.811 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Nut"
-			(at 23.876 21.209 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Keystone_1902C"
-			(at 27.94 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
-			(at 27.94 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Keystone"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "1902C"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Standoff"
-			(at 136.652 -131.064 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 139.192 -123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
-			(at 139.192 -123.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "1902C"
-			(at 23.876 9.271 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074836-1_Altium Vault - TI")
-		(at 149.86 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9680cd75-8890-461f-96b2-c0667119f03e")
-		(property "Reference" "Logo7"
-			(at 145.333 62.738 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CAUTION.  READ USER GUIDE BEFORE USE"
-			(at 145.333 72.136 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IEC_Caution_Small"
-			(at 149.86 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IEC 61010-1 Caution Warning"
-			(at 149.86 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Logo"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLVERSION" "2011-08-22"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "IEC_Caution"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "CAUTION.  READ USER GUIDE BEFORE USE"
-			(at 143.452 -82.042 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "Logo7")
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "LOGO2")
 					(unit 1)
 				)
 			)
@@ -47263,7 +44907,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "a5a54b02-b2c0-4918-a559-545dba58b901")
+		(uuid "3a60ca7e-2e11-4642-b359-7c5c2af8de06")
 		(property "Reference" "H7"
 			(at 23.876 49.911 0)
 			(effects
@@ -47531,8 +45175,275 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "H7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 30.48 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "412182c6-2864-4850-aa91-ca17e6d025d2")
+		(property "Reference" "FID2"
+			(at 27.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 29.21 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 30.48 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 27.94 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 27.94 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 27.94 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "FID2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074844-1_Altium Vault - TI")
+		(at 96.52 86.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "44571900-f169-43ef-a131-a1b31f1911f9")
+		(property "Reference" "Logo8"
+			(at 89.52 81.131 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CE Mark"
+			(at 89.52 94.129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "CE_Mark_5mm"
+			(at 96.52 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CE Mark"
+			(at 96.52 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "CE Mark"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "CE Mark"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "CE Mark"
+			(at 89.52 -61.722 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "Logo8")
 					(unit 1)
 				)
 			)
@@ -47546,7 +45457,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b802a3f3-43c9-40b3-b1ae-1a70ad0a4b9e")
+		(uuid "51aff845-9083-42f7-b542-3daa3f32fa6d")
 		(property "Reference" "LOGO5"
 			(at 137.713 84.731 0)
 			(effects
@@ -47624,8 +45535,1768 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "LOGO5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 17.78 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5d77f137-81dd-4d72-8c06-c9f91f08e37d")
+		(property "Reference" "FID1"
+			(at 15.24 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 16.51 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 17.78 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 15.24 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 15.24 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 15.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 15.24 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "FID1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
+		(at 15.24 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6070e124-0371-4b26-aaa6-8f9831e75820")
+		(property "Reference" "H4"
+			(at 12.7 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NY PMS 440 0025 PH"
+			(at 12.7 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "NY PMS 440 0025 PH"
+			(at 15.24 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
+			(at 15.24 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Hardware"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "B&F Fastener Supply"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "NY PMS 440 0025 PH"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Screw"
+			(at 123.952 -90.424 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 126.492 -82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
+			(at 126.492 -82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Mounting Holes"
+			(at 12.7 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "H542-ND"
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "NY PMS 440 0025 PH"
+			(at 12.7 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "94f99659-07eb-4e7a-9338-4bff50aa04dd")
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "root_0_Assembly Note_Altium Vault - TI_1")
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 187.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6bb34cb1-ce54-4c8c-b71f-4b7d0dfbfc25")
+		(property "Reference" "ZZ3"
+			(at 17.78 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
+			(at 17.78 191.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
+			(at 27.94 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 39.878 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "ZZ3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
+		(at 43.18 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "731df6b7-8113-4c88-ae48-6632d01b39cf")
+		(property "Reference" "FID3"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Fiducial"
+			(at 41.91 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Fiducial10-20"
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
+			(at 43.18 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Fiducial"
+			(at 40.64 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "N/A"
+			(at 40.64 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "FiducialMark"
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Fiducial"
+			(at 40.64 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "FID3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
+		(at 58.42 15.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "754a6825-b566-4894-94d2-aa35766f01d2")
+		(property "Reference" "H5"
+			(at 54.356 11.811 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Nut"
+			(at 54.356 21.209 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Keystone_1902C"
+			(at 58.42 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 58.42 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
+			(at 58.42 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Hardware"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Keystone"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "1902C"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Standoff"
+			(at 167.132 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 169.672 -123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
+			(at 169.672 -123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "1902C"
+			(at 54.356 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074847-1_Altium Vault - TI")
+		(at 119.38 88.033 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "76c7a727-2a26-4a5a-aed0-66bf60bf8cd1")
+		(property "Reference" "Logo9"
+			(at 114.78 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "FCC disclaimer"
+			(at 114.78 94.129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "FCC_disclaimer"
+			(at 119.38 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 119.38 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "FCC_disclaimer"
+			(at 119.38 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 112.972 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 112.972 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 112.972 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "FCC_disclaimer"
+			(at 114.853 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "FCC disclaimer"
+			(at 114.853 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Logo"
+			(at 112.972 -60.049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "Logo9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
+		(at 15.24 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "794e7ea9-27a8-4133-ae81-9051daeac3d6")
+		(property "Reference" "H3"
+			(at 12.7 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "NY PMS 440 0025 PH"
+			(at 12.7 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "NY PMS 440 0025 PH"
+			(at 15.24 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 15.24 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
+			(at 15.24 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Hardware"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "B&F Fastener Supply"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "NY PMS 440 0025 PH"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Screw"
+			(at 123.952 -108.204 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 126.492 -100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
+			(at 126.492 -100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Mounting Holes"
+			(at 12.7 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "H542-ND"
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "NY PMS 440 0025 PH"
+			(at 12.7 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "65ee0b59-2b9d-4c93-b94b-33ce1c7767ca")
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "root_0_Assembly Note_Altium Vault - TI_2")
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 198.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8450e204-5d92-40db-8418-a0ecc3eabb3c")
+		(property "Reference" "ZZ4"
+			(at 17.78 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
+			(at 17.78 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
+			(at 27.94 198.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 50.038 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 194.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "ZZ4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074837-1_Altium Vault - TI")
+		(at 88.138 103.886 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9f480b90-8eaa-46cd-85e8-4a7fceaf7e19")
+		(property "Reference" "LOGO10"
+			(at 81.915 98.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CAUTION HOT SURFACE"
+			(at 81.915 111.849 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_HotSurface_Small"
+			(at 88.138 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.138 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 Hot Surface Warning"
+			(at 88.138 103.886 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 196.85 -42.418 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 199.39 -37.592 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 81.915 -44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 81.915 -44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 81.915 -44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_HotSurface"
+			(at 81.915 98.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "CAUTION HOT SURFACE"
+			(at 81.915 98.238 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "IEC_HotSurface"
+			(at 81.915 -44.196 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "LOGO10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074836-1_Altium Vault - TI")
+		(at 149.86 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b0c816e6-f1f0-4e15-8375-5e20a24e968a")
+		(property "Reference" "Logo7"
+			(at 145.333 62.738 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CAUTION.  READ USER GUIDE BEFORE USE"
+			(at 145.333 72.136 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_Caution_Small"
+			(at 149.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 Caution Warning"
+			(at 149.86 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Logo"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_Caution"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "CAUTION.  READ USER GUIDE BEFORE USE"
+			(at 143.452 -82.042 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "Logo7")
 					(unit 1)
 				)
 			)
@@ -47639,7 +47310,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "b9b19c0a-40c6-4d6b-bcfc-e4acda8f5eb0")
+		(uuid "b12d7bc1-04b5-4b55-8c14-cb742d493aba")
 		(property "Reference" "!PCB1"
 			(at 12.7 93.98 0)
 			(effects
@@ -47908,1102 +47579,8 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "!PCB1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "root_0_Assembly Note_Altium Vault - TI_2")
-		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
-		(at 27.94 198.12 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bb1eb577-ca0e-4e9b-ba10-f8a726402cc5")
-		(property "Reference" "ZZ4"
-			(at 17.78 196.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
-			(at 17.78 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "AssemblyNote"
-			(at 27.94 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "These assemblies must comply with workmanship standards IPC-A-610 Class 2, unless otherwise specified."
-			(at 27.94 198.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "AssemblyNote"
-			(at 139.192 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "AssemblyNote"
-			(at 17.78 50.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 17.78 50.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-08-10"
-			(at 17.78 50.038 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "AssemblyNote"
-			(at 17.78 194.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "ZZ4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
-		(at 27.94 30.48 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bc70eadd-4c25-4e72-86e4-4e5f279da7ee")
-		(property "Reference" "H8"
-			(at 23.876 27.051 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Nut"
-			(at 23.876 36.449 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "Keystone_1902C"
-			(at 27.94 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 27.94 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
-			(at 27.94 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "Keystone"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "1902C"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Standoff"
-			(at 136.652 -115.824 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 139.192 -107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
-			(at 139.192 -107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "1902C"
-			(at 23.876 24.511 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
-		(at 17.78 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "bd323d66-500c-4400-bc65-1cacc9487d8e")
-		(property "Reference" "FID1"
-			(at 15.24 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 16.51 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Fiducial10-20"
-			(at 17.78 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 17.78 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
-			(at 17.78 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Fiducial"
-			(at 15.24 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 15.24 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 15.24 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "N/A"
-			(at 15.24 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "N/A"
-			(at 15.24 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "FiducialMark"
-			(at 15.24 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Fiducial"
-			(at 15.24 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "FID1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_Fiducial_Altium Vault - TI")
-		(at 30.48 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c74a9b2b-ceaa-4f6b-bbee-54f20be48327")
-		(property "Reference" "FID2"
-			(at 27.94 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 29.21 69.85 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Fiducial10-20"
-			(at 30.48 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 30.48 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fiducial mark.  There is nothing to buy or mount."
-			(at 30.48 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Fiducial"
-			(at 27.94 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "N/A"
-			(at 27.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 27.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "N/A"
-			(at 27.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "N/A"
-			(at 27.94 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "FiducialMark"
-			(at 27.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "Fiducial"
-			(at 27.94 62.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "FID2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_CMP-0074837-1_Altium Vault - TI")
-		(at 88.138 65.786 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d09a92ff-b2fa-4a8d-9d24-e3128c7bcaff")
-		(property "Reference" "LOGO1"
-			(at 81.915 60.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CAUTION HOT SURFACE"
-			(at 81.915 73.749 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "IEC_HotSurface_Small"
-			(at 88.138 65.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.138 65.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "IEC 61010-1 Hot Surface Warning"
-			(at 88.138 65.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLVERSION" "2011-08-22"
-			(at 196.85 -80.518 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SYMBOLCREATOR" "a0412235"
-			(at 199.39 -75.692 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" "2009-03-03"
-			(at 81.915 -82.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 81.915 -82.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-07-06"
-			(at 81.915 -82.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIB REFERENCE" "IEC_HotSurface"
-			(at 81.915 60.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "CAUTION HOT SURFACE"
-			(at 81.915 60.138 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY REFERENCE" "IEC_HotSurface"
-			(at 81.915 -82.296 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "LOGO1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
-		(at 45.72 17.78 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d2faa6a6-c581-4b23-9a78-acd64ab06973")
-		(property "Reference" "H1"
-			(at 43.18 15.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "NY PMS 440 0025 PH"
-			(at 43.18 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "NY PMS 440 0025 PH"
-			(at 45.72 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 45.72 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
-			(at 45.72 17.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "COMPTYPE" "Hardware"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER" "B&F Fastener Supply"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "MOUNTTYPE" "N/A"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ROHS" "Y"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PARTNUMBER" "NY PMS 440 0025 PH"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PACKAGEREFERENCE" "Screw"
-			(at 154.432 -128.524 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
-			(at 156.972 -120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
-			(at 156.972 -120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "CLASSNAME" "Mounting Holes"
-			(at 43.18 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE MANUFACTURER" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTERNATE PARTNUMBER" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "LATESTREVISIONDATE" "2017-03-09"
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" "Texas Instruments"
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "NOTE" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 1" "Digi-Key"
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 2" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER 3" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 1" "H542-ND"
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 2" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "SUPPLIER PART NUMBER 3" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "ALTIUM_VALUE" ""
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "KEY" "NY PMS 440 0025 PH"
-			(at 43.18 12.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8f67cff3-8b5b-4648-98fa-52de5e431f20")
-		)
-		(instances
-			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "H1")
 					(unit 1)
 				)
 			)
@@ -49017,7 +47594,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "defbbfdb-074d-4f83-a64b-8017fd6c0e90")
+		(uuid "ba7438ce-b2b3-4281-b7df-c36c3b8e1aca")
 		(property "Reference" "ZZ1"
 			(at 17.78 153.67 0)
 			(effects
@@ -49285,7 +47862,7 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "ZZ1")
 					(unit 1)
 				)
@@ -49293,17 +47870,16 @@
 		)
 	)
 	(symbol
-		(lib_name "root_0_Assembly Note_Altium Vault - TI_1")
-		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
-		(at 27.94 187.96 0)
+		(lib_id "Altium Vault - TI:root_0_NY PMS 440 0025 PH_Altium Vault - TI")
+		(at 15.24 17.78 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e35034dd-48b1-410a-abf7-0f7354e0e26a")
-		(property "Reference" "ZZ3"
-			(at 17.78 186.69 0)
+		(uuid "c653cb35-4565-4d9a-ab1c-691e9a56ba34")
+		(property "Reference" "H2"
+			(at 12.7 15.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49311,8 +47887,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
-			(at 17.78 191.77 0)
+		(property "Value" "NY PMS 440 0025 PH"
+			(at 12.7 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49320,8 +47896,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "AssemblyNote"
-			(at 27.94 187.96 0)
+		(property "Footprint" "NY PMS 440 0025 PH"
+			(at 15.24 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49330,7 +47906,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 27.94 187.96 0)
+			(at 15.24 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49338,8 +47914,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "These assemblies must be clean and free from flux and all contaminants. Use of no clean flux is not acceptable."
-			(at 27.94 187.96 0)
+		(property "Description" "Machine Screw, Round, #4-40 x 1/4, Nylon, Philips panhead"
+			(at 15.24 17.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49347,8 +47923,8 @@
 				(hide yes)
 			)
 		)
-		(property "COMPTYPE" "AssemblyNote"
-			(at 139.192 49.53 0)
+		(property "COMPTYPE" "Hardware"
+			(at 123.952 -128.524 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49357,8 +47933,108 @@
 				(hide yes)
 			)
 		)
-		(property "CLASSNAME" "AssemblyNote"
-			(at 17.78 39.878 0)
+		(property "MANUFACTURER" "B&F Fastener Supply"
+			(at 123.952 -128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 123.952 -128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 123.952 -128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "NY PMS 440 0025 PH"
+			(at 123.952 -128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Screw"
+			(at 123.952 -128.524 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 126.492 -120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.fasnetdirect.com/refguide/Nylpanms.pdf"
+			(at 126.492 -120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Mounting Holes"
+			(at 12.7 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 12.7 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49368,7 +48044,7 @@
 			)
 		)
 		(property "PUBLISHER" "Texas Instruments"
-			(at 17.78 39.878 0)
+			(at 12.7 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49377,8 +48053,8 @@
 				(hide yes)
 			)
 		)
-		(property "LATESTREVISIONDATE" "2017-08-10"
-			(at 17.78 39.878 0)
+		(property "NOTE" ""
+			(at 12.7 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49387,8 +48063,8 @@
 				(hide yes)
 			)
 		)
-		(property "KEY" "AssemblyNote"
-			(at 17.78 184.15 0)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 12.7 12.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -49396,11 +48072,84 @@
 				(justify left bottom)
 				(hide yes)
 			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "H542-ND"
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "NY PMS 440 0025 PH"
+			(at 12.7 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3fa2b749-b5ff-4154-81aa-95f7e824d239")
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
-					(reference "ZZ3")
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H2")
 					(unit 1)
 				)
 			)
@@ -49414,7 +48163,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "f7eefc4c-95b4-49e0-8553-f939a79492a3")
+		(uuid "c8fa2b6e-4c1c-4dd9-9f7a-a5454f0d738b")
 		(property "Reference" "LOGO11"
 			(at 117.475 98.238 0)
 			(effects
@@ -49542,8 +48291,1259 @@
 		)
 		(instances
 			(project ""
-				(path "/40f74bb4-ce60-4068-8348-c2d71512c1c0/2c4788a4-3fa0-4341-a11a-c01ab5d5b6c1"
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
 					(reference "LOGO11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074835-1_Altium Vault - TI")
+		(at 118.618 50.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d5a854ad-eefd-4092-a61a-4517058c0e12")
+		(property "Reference" "LOGO3"
+			(at 112.344 45.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "DANGER HIGH VOLTAGE"
+			(at 112.344 58.915 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_HighVoltage_Small"
+			(at 118.618 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 118.618 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 High Voltage Warning"
+			(at 118.618 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 227.33 -95.504 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 229.87 -90.678 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 112.344 -97.282 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 112.344 -97.282 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 112.344 -97.282 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_HighVoltage"
+			(at 112.344 45.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "DANGER HIGH VOLTAGE"
+			(at 112.344 45.305 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "IEC_HighVoltage"
+			(at 112.344 -97.282 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "LOGO3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074837-1_Altium Vault - TI")
+		(at 88.138 50.546 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e0ba9d39-8d8b-429f-bbb0-aab83adf7e6c")
+		(property "Reference" "LOGO4"
+			(at 81.915 44.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "CAUTION HOT SURFACE"
+			(at 81.915 58.509 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "IEC_HotSurface_Small"
+			(at 88.138 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 88.138 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IEC 61010-1 Hot Surface Warning"
+			(at 88.138 50.546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 196.85 -95.758 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 199.39 -90.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 81.915 -97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 81.915 -97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 81.915 -97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "IEC_HotSurface"
+			(at 81.915 44.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "CAUTION HOT SURFACE"
+			(at 81.915 44.898 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "IEC_HotSurface"
+			(at 81.915 -97.536 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "LOGO4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0074838-1_Altium Vault - TI")
+		(at 68.58 88.033 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e14f1012-f90b-410d-a784-1c685d93102d")
+		(property "Reference" "Logo6"
+			(at 63.98 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Texas Instruments"
+			(at 63.98 94.129 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "TI_Stacked_Overlay_Small"
+			(at 68.58 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 68.58 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Texas Instrument Corporate Signature"
+			(at 68.58 88.033 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLVERSION" "2011-08-22"
+			(at 177.292 -58.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SYMBOLCREATOR" "a0412235"
+			(at 179.832 -53.445 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHED" "2009-03-03"
+			(at 62.172 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 62.172 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "Logo"
+			(at 62.172 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-07-06"
+			(at 62.172 -55.477 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIB REFERENCE" "TI_Logo"
+			(at 64.053 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "Texas Instruments"
+			(at 64.053 84.731 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LIBRARY REFERENCE" "Logo"
+			(at 62.172 -60.049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "Logo6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Assembly Note_Altium Vault - TI")
+		(at 27.94 177.8 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e286f476-ac97-4dfe-a37b-c1ff15b8c76e")
+		(property "Reference" "ZZ2"
+			(at 17.78 176.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "These assemblies are ESD sensitive, ESD precautions shall be observed."
+			(at 17.78 181.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "AssemblyNote"
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "These assemblies are ESD sensitive, ESD precautions shall be observed."
+			(at 27.94 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "AssemblyNote"
+			(at 139.192 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" "AssemblyNote"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-08-10"
+			(at 17.78 29.718 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "AssemblyNote"
+			(at 17.78 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "ZZ2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
+		(at 27.94 15.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "e44d0898-0a1d-4493-8416-b25dbdb0c183")
+		(property "Reference" "H6"
+			(at 23.876 11.811 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Nut"
+			(at 23.876 21.209 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Keystone_1902C"
+			(at 27.94 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
+			(at 27.94 15.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Hardware"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Keystone"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "1902C"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Standoff"
+			(at 136.652 -131.064 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 139.192 -123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
+			(at 139.192 -123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "1902C"
+			(at 23.876 9.271 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_CMP-0080604-2_Altium Vault - TI")
+		(at 170.18 25.4 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ecd0e8db-f0f0-4d7c-a7e0-cb0c9875edf8")
+		(property "Reference" "!PCB2"
+			(at 166.37 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "MechPart"
+			(at 166.37 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" ""
+			(at 170.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Partner board for MD016  Kitting item"
+			(at 170.18 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "Paste URL for datasheet here"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Mechanical"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Used in BOM report"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Any"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "MD017"
+			(at 165.1 -122.682 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "DISCRIPTION" "Partner board for MD016  Kitting item"
+			(at 166.37 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "!PCB2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Altium Vault - TI:root_0_Nut_Altium Vault - TI")
+		(at 27.94 30.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f87d9a81-2e6c-49d0-8c28-fbaf2f715a11")
+		(property "Reference" "H8"
+			(at 23.876 27.051 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Value" "Nut"
+			(at 23.876 36.449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Footprint" "Keystone_1902C"
+			(at 27.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 27.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Standoff, Hex, 0.5\"L #4-40 Nylon"
+			(at 27.94 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "COMPTYPE" "Hardware"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "Keystone"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "MOUNTTYPE" "N/A"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ROHS" "Y"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTNUMBER" "1902C"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGEREFERENCE" "Standoff"
+			(at 136.652 -115.824 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1DESCRIPTION" "Datasheet Link"
+			(at 139.192 -107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "COMPONENTLINK1URL" "http://www.keyelco.com/pdfs/M55-prod31.pdf"
+			(at 139.192 -107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE MANUFACTURER" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTERNATE PARTNUMBER" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "LATESTREVISIONDATE" "2017-03-09"
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "PUBLISHER" "Texas Instruments"
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "CLASSNAME" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "NOTE" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 1" "Digi-Key"
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 2" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER 3" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 1" "36-1902C-ND"
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 2" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "SUPPLIER PART NUMBER 3" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "ALTIUM_VALUE" ""
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "KEY" "1902C"
+			(at 23.876 24.511 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(instances
+			(project ""
+				(path "/9bc0b093-2bd5-410a-8b31-b4127ef616ad/523fb197-20f6-481e-86da-4b36b9264188"
+					(reference "H8")
 					(unit 1)
 				)
 			)
